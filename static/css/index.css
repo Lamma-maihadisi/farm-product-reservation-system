@@ -1,0 +1,24 @@
+/* Fresh farm green */
+.bg-fresh-green {
+  background-color: #2ecc71 !important; /* Fresh leaf green */
+}
+
+/* Egg yellow buttons */
+.btn-egg-yellow {
+  background-color: #f1c40f !important; /* Golden egg yellow */
+  border: none;
+  color: #000;
+}
+
+.btn-egg-yellow:hover {
+    background-color: #d4ac0d !important; /* Darker yellow */
+    color: #fff;
+}
+
+.nav-link {
+    color: black;
+}
+
+.nav-link:hover {
+    font-size: 18px;
+}
